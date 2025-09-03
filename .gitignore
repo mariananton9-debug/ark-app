@@ -1,0 +1,27 @@
+# Ark App
+
+Ark este o aplicație comunitară construită pentru:
+- **Hop in Ark** – ajutor reciproc între frați (donații, suport, solidaritate)  
+- **Community** – întâlniri locale, clock in/out, puncte Ark  
+- **Living Bible** – versete cu interpretare vie și aplicație practică  
+- **Ask Nova** – AI spiritual assistant pentru întrebare și călăuzire  
+- **Safe Ark** – protecție pentru surorile și copiii vulnerabili  
+- **Protest Curat & Solidar** – forme pașnice de protest și unitate  
+
+---
+
+## 🚀 Tech Stack
+- [Next.js](https://nextjs.org/) + [TypeScript](https://www.typescriptlang.org/)  
+- [Supabase](https://supabase.com/) (Postgres + Auth)  
+- [Stripe](https://stripe.com/) (plăți de $5 donații)  
+- [Vercel](https://vercel.com/) (hosting)  
+- AI API integration (OpenAI)  
+
+---
+
+## ⚙️ Instalare locală
+
+1. Clonează repo-ul:
+   ```bash
+   git clone https://github.com/mariananton9-debug/ark-app.git
+   cd ark-app
